@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ESPHome is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://esphome.io/
+ESPHome is an open-source platform that simplifies building custom smart home devices using ESP8266/ESP32 microcontrollers. It provides a visual device builder, YAML configuration files, and seamless integration with Home Assistant, allowing users to create sensors, switches, lights, and more without extensive coding. The platform offers extensive component libraries, OTA updates, and local control, emphasizing privacy and flexibility for hobbyists and developers alike.
+
+**Areas:** Smart Home · Home Automation · Microcontrollers · Open Source · ESP32 · Home Assistant
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://esphome.io/)
+- [Documentation](https://api-docs.esphome.io/)
+- [Getting started](https://esphome.io/install/getting-started/)
+- [Pricing](https://esphome.io/starter-kit/)
+- [Support](https://esphome.io/chat)
+- [Changelog](https://esphome.io/changelog/)
+- [Blog](https://esphome.io/blog/)
+- [GitHub](https://github.com/esphome)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/esphome/](https://apis.io/providers/esphome/).
